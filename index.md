@@ -1,7 +1,11 @@
 # Low-poly Mesh Generation for Building Models
 ![](imgs/Teaser-01-out-fs8.jpg)
-Xifeng Gao, Kui Wu, Zherong Pan.
-Proceedings of SIGGRAPH 2022.
+
+**Xifeng Gao, Kui Wu, Zherong Pan**
+
+*Lightspeed & Quantum Studios, Tencent America*
+
+Proceedings of SIGGRAPH Conference, 2022
 
 ```
 @inproceedings{Gao:2022:Lowpoly,
