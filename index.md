@@ -1,4 +1,4 @@
-## Welcome to Lowpoly-Modeling Pages
+## Low-poly Mesh Generation for Building Models
 
 We propose a new and effective approach to generate a low-poly rep-resentation for commonly used 3D building models in digital games.
 Our method is designed exclusively for generating the coarsest mesh in the LOD
