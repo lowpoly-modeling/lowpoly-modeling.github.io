@@ -1,12 +1,22 @@
-## Low-poly Mesh Generation for Building Models
+# Low-poly Mesh Generation for Building Models
+![](imgs/Teaser-01-out-fs8.jpg)
+Xifeng Gao, Kui Wu, Zherong Pan.
+Proceedings of SIGGRAPH 2022.
 
-We propose a new and effective approach to generate a low-poly rep-resentation for commonly used 3D building models in digital games.
-Our method is designed exclusively for generating the coarsest mesh in the LOD
-hierarchy for building assets used by mobile applications.
+```
+@inproceedings{Gao:2022:Lowpoly,
+  title={Low-poly Mesh Generation for Building Models},
+  author={Xifeng Gao and Kui Wu and Zherong Pan},
+  booktitle={Proceedings of SIGGRAPH 2022},
+  year={2022}
+}
+```
 
-### Executable program
+## News
 
-Download Link: [LowPolyMeshGenerationTool](https://github.com/lowpoly-modeling/lowpoly-modeling.github.io/archive/refs/heads/main.zip) 
+LowPolyMeshGenerationTool.exe Version 1.0 is to be released! Stay tuned!
+**[LowPolyMeshGenerationTool]()**
 
-### Support or Contact
 
+## License
+To be updated.
