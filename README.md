@@ -1,5 +1,22 @@
-# lowpoly-modeling.github.io
+# Low-poly Mesh Generation for Building Models
+![](imgs/Teaser-01-out-fs8.jpg)
+Xifeng Gao, Kui Wu, Zherong Pan.
+Proceedings of SIGGRAPH 2022.
 
-# bin : LowPolyMeshGenerationTool.exe [Executable program]
+```
+@inproceedings{Gao:2022:Lowpoly,
+  title={Low-poly Mesh Generation for Building Models},
+  author={Xifeng Gao and Kui Wu and Zherong Pan},
+  booktitle={Proceedings of SIGGRAPH 2022},
+  year={2022}
+}
+```
 
-# assets : building_model_sample.obj [mesh sample]
+## News
+
+LowPolyMeshGenerationTool.exe Version 1.0 is to be released! Stay tuned!
+**[LowPolyMeshGenerationTool]()**
+
+
+## License
+To be updated.
