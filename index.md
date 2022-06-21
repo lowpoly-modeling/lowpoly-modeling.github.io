@@ -7,6 +7,8 @@
 
 Proceedings of SIGGRAPH Conference, 2022
 
+[Paper](paper.pdf) [Video] [Program]
+
 ```
 @inproceedings{Gao:2022:Lowpoly,
   title={Low-poly Mesh Generation for Building Models},
