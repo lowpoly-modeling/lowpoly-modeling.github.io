@@ -7,7 +7,7 @@
 
 Proceedings of SIGGRAPH Conference, 2022
 
-[Paper](paper.pdf) [Video] [Program]
+[Paper](paper.pdf) [Video](https://youtu.be/i5rKfvaHX80) [Program]
 
 ```
 @inproceedings{Gao:2022:Lowpoly,
