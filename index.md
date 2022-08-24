@@ -7,7 +7,7 @@
 
 Proceedings of SIGGRAPH Conference, 2022
 
-[Paper](paper.pdf) [Video](https://youtu.be/i5rKfvaHX80) [Program]
+[Paper](paper.pdf) [Video](https://youtu.be/i5rKfvaHX80) [Program](https://github.com/lowpoly-modeling/lowpoly-modeling.github.io/blob/main/bin.zip)
 
 ```
 @inproceedings{Gao:2022:Lowpoly,
@@ -31,8 +31,8 @@ series = {SIGGRAPH22 Conference Proceeding}
 
 ## News
 
-LowPolyMeshGenerationTool.exe Version 1.0 is to be released! Stay tuned!
-**[LowPolyMeshGenerationTool]()**
+LowPolyMeshGenerationTool.exe Version 1.0 is released!
+**[LowPolyMeshGenerationTool](https://github.com/lowpoly-modeling/lowpoly-modeling.github.io/blob/main/bin.zip)**
 
 
 ## License
